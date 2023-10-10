@@ -29,7 +29,7 @@ const UpcomingExamination = () => {
     { date: "02th October 2014", level: "Level 3 (Grad)" },
   ];
   return (
-    <div className="flex  justify-between flex-wrap sm:mx-16">
+    <div className="flex  justify-between flex-wrap sm:mx-16 mt-24">
       <div className="flex">
       <div className="sm:flex flex-col text-start items-start ml-10 sm:ml-0">
         <h1 className="upcoming-heading text-blue-800 text-2xl font-semibold">Upcoming<br />Examination</h1>
